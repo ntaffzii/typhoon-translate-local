@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# PyInstaller / Build artifacts
+build/
+dist/
+*.spec
+*.manifest
+
+# Models (Do not commit large LLM weights!)
+models/
+*.gguf
+*.bin
+
+# Environment variables (Do not commit secrets/local configs)
+.env
+.env.*
+!.env.example
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Gemini CLI / AI specific
+.gemini/
