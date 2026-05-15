@@ -4,7 +4,7 @@ A local, controllable translation application for Thai ↔ English, utilizing th
 
 This project provides a modern, native **Desktop GUI** (built with PySide6) that allows you to easily interact with the translation model directly from your computer, ensuring absolute privacy and data security. 
 
-![Application Preview](c:\Users\natth\Pictures\Screenshots\GUI-Translate-Thai-ENG.png)
+![Application Preview](https://github.com/ntaffzii/typhoon-translate-local/blob/main/image/GUI-Translate-Thai-ENG.png?raw=true)
 
 ## ✨ Features
 *   **100% Local & Private:** Your data never leaves your machine.
